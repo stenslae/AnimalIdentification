@@ -1,0 +1,21 @@
+5,furry
+3,bipedal
+13,aquatic
+1,reclusive
+4,a dog
+11,legged
+17,legged
+0,a bigfoot
+2,a human
+7,Shelled
+12,a fish
+15,slimy
+19,moist
+6,Turtle
+9,Turtle
+14,a frog
+16,a lizard
+18,worm
+20,a snake
+8,Shelled
+10,a salamander
